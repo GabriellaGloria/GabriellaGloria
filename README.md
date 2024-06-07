@@ -1,7 +1,7 @@
 # Hi There 👋 <img src="https://komarev.com/ghpvc/?username=GabriellaGloria&label=visitors&color=121212&style=flat" alt="GabriellaGloria" />
 
 
-👩🏻‍💻 I am Gabriella, a Computer Science student at NUS
+👩🏻‍💻 I am Gabriella, a Computer Science student at NUS </br>
 💻 Aspiring software engineer and former competitive programmer. </br>
 📖 Dedicated to learning and collaborating on innovative projects. </br>
 🌐 Open to networking and excited about the journey ahead in the tech industry! </br>
